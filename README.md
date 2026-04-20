@@ -30,3 +30,11 @@ Through this project, I practiced:
 
 ---
 Uploaded by Ahmad AbdUlElah - Programming Journey 2026
+
+
+---
+## 🕒 Digital Clock Project
+مشروع ساعة رقمية تقوم بتحديث الوقت كل ثانية وتصفير العداد تلقائياً.
+
+### 🛠️ الميزات:
+* تحديث مباشر للوقت باستخدام Sleep.

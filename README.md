@@ -11,3 +11,22 @@
 
 ---
 تم الرفع بواسطة [Ahmad AbdUlElah] - رحلة تعلم البرمجة 2026 🚀
+# 🏧 ATM System Project - C++
+
+### 🌟 Project Overview
+This is my first programming project using *C++*. It's a simple ATM (Automated Teller Machine) system that simulates basic banking operations.
+
+### 🛠️ Features:
+* *Password Verification:* The system requires a specific pin to grant access.
+* *Balance Inquiry:* Users can check their current account balance.
+* *Withdraw Money:* Allows users to withdraw cash after checking if the balance is sufficient.
+* *Deposit Money:* Allows users to add funds to their account.
+
+### 🚀 What I Learned:
+Through this project, I practiced:
+1. Loops (while and do-while).
+2. Conditional statements (if-else).
+3. Standard Input/Output (cin & cout).
+
+---
+Uploaded by Ahmad AbdUlElah - Programming Journey 2026
